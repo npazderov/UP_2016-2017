@@ -31,7 +31,7 @@ int main()
     char string[50];
     cout<<" Enter Text: ";
     cin.getline(string,50);
-    cout<<func(string)<<endl;
+    func(string);
 
 
 
